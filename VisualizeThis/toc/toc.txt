@@ -1,0 +1,105 @@
+Table of Contents
+
+Introduction xv
+
+1 Telling Stories with Data 1
+
+More Than Numbers 2
+
+What to Look For 8
+
+Design 13
+
+Wrapping Up 20
+
+2 Handling Data 21
+
+Gather Data 22
+
+Formatting Data 38
+
+Wrapping Up 52
+
+3 Choosing Tools to Visualize Data 53
+
+Out-of-the-Box Visualization 54
+
+Programming 62
+
+Illustration 76
+
+Mapping 80
+
+Survey Your Options 88
+
+Wrapping Up 89
+
+4 Visualizing Patterns over Time 91
+
+What to Look for over Time 92
+
+Discrete Points in Time 93
+
+Continuous Data 118
+
+Wrapping Up 132
+
+5 Visualizing Proportions 135
+
+What to Look for in Proportions 136
+
+Parts of a Whole 136
+
+Proportions over Time 161
+
+Wrapping Up 178
+
+6 Visualizing Relationships 179
+
+What Relationships to Look For 180
+
+Correlation 180
+
+Distribution 200
+
+Comparison 213
+
+Wrapping Up 226
+
+7 Spotting Differences 227
+
+What to Look For 228
+
+Comparing across Multiple Variables 228
+
+Reducing Dimensions 258
+
+Searching for Outliers 265
+
+Wrapping Up 269
+
+8 Visualizing Spatial Relationships 271
+
+What to Look For 272
+
+Specific Locations 272
+
+Regions 285
+
+Over Space and Time 302
+
+Wrapping Up 325
+
+9 Designing with a Purpose 327
+
+Prepare Yourself 328
+
+Prepare Your Readers 330
+
+Visual Cues 334
+
+Good Visualization 340
+
+Wrapping Up 341
+
+Index 343
